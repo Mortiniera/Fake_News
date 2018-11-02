@@ -5,6 +5,8 @@ Fake News : What ? When ? and Why ? Who can tell anymore ?
 # Abstract
 A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
 
+The theme of this year is "Data Science for social goods". We will try to follow this theme by helping people not to believe everything they see by giving certain directional axes. In order to do so, we will first establish some facts drawn from the data showing how much fake news can affect us and how the crowd can be fooled easily. We will also try to show that some news (not necessarily false or true : we will use for example the false-true or barely true labels) are made to create doubt and decredibilize someone or some organization. We will try to give some directions by trying to find recurrent pattern of fake news, their features, their trends and how they are delivered to warn people to always cross check their references to avoid being fooled half of the time. 
+
 
 
 # Research questions
@@ -29,7 +31,7 @@ We used two data sets :  The LIAR and IRA datasets.
 ** labels : pants-fire, false, barelytrue, half-true, mostly-true, and true (distribution pretty-well balanced)
 ** other attributes : subject, author of the statement, what the author represent (media, government..), geographic origin (Us state), political party of the author, the credit history vector of the author (counts of pants fire, false, barelytrue...) and the where the statement was emitted. (campaign debate, press release, website...)
 
-IRA Data Set : 
+-  Data Set : 
 8 CSV sheets of more than 370k rows + 1 sheet od 37k rows(sheets differ by their author). Each row represent Tweets of IRA (Internet Research Agency) trolls about U.S politics. 77% of the tweets are in english while 13% in Russian and other languages represent 11% of the data. We will only consider english tweets here.
 Each tweet is described by its author, the content, the region it comes from, the language used, its publication and harvested date, the number of people following the author and the number of people he is following, the number of update of the current tweet(I think it is the number of retweets, likes.. ?), and the post category, is it an original tweet or a retweet.
 
