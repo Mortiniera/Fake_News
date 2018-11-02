@@ -10,11 +10,28 @@ A 150 word description of the project idea, goals, dataset used. What story you 
 # Research questions
 A list of research questions you would like to address during the project. 
 
-- Repartition of the provenance of these fake news.
-- Repartition in time of the aggregation of fake news in total, and according to their provenance
+- Repartition of the provenance of these fake news. (LIAR)
+- Repartition in time of the aggregation of fake news in total, and according to their provenance (LIAR)
+- Make the connection between a fake news (LIAR) and the number of tweet (and retweets) by subject (IRA) :
+Are there some subjects that have buzzing way more than others, why ?? If it is possible to know when it happened, try to find a justification of it.
+- Do most of the fake news come from one particular political party ? Are there reason about it ? Is it the opposing party versus the ruling power ? Is it the other way around -> Propaganda ?
+- Is it possible to draw some inferences from it ? Is it more likely to have fake news from either region, party ? How to fight them ? what ressources are mostly used for fake news ? Social media? Press release ? ....
+- Can we fight them ? Can we classify some sources as reliable from the dataset , through some credit history ?
+
 
 # Dataset
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
+
+We used two data sets :  The LIAR and IRA datasets.
+
+- LIAR Data set :
+10269 human labeled short statements s from POLITIFACT.COM’s API.
+** labels : pants-fire, false, barelytrue, half-true, mostly-true, and true (distribution pretty-well balanced)
+** other attributes : subject, author of the statement, what the author represent (media, government..), geographic origin (Us state), political party of the author, the credit history vector of the author (counts of pants fire, false, barelytrue...) and the where the statement was emitted. (campaign debate, press release, website...)
+
+IRA Data Set : 
+8 CSV sheets of more than 370k rows + 1 sheet od 37k rows(sheets differ by their author). Each row represent Tweets of IRA (Internet Research Agency) trolls about U.S politics. 77% of the tweets are in english while 13% in Russian and other languages represent 11% of the data. We will only consider english tweets here.
+Each tweet is described by its author, the content, the region it comes from, the language used, its publication and harvested date, the number of people following the author and the number of people he is following, the number of update of the current tweet(I think it is the number of retweets, likes.. ?), and the post category, is it an original tweet or a retweet.
 
 # A list of internal milestones up until project milestone 2
 Add here a sketch of your planning for the next project milestone.
