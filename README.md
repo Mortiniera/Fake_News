@@ -38,7 +38,7 @@ Each tweet is described by its author, the content, the region it comes from, th
 # A list of internal milestones up until project milestone 2
 Add here a sketch of your planning for the next project milestone.
 
-The milestone 2 is due for November 25, until then, here is a tentaive schedule we will try to follow.
+The milestone 2 is due for November 25, until then, here is a tentative schedule we will try to follow.
 
 - November 11 : Data Exploration : Distribution of fake news among author/group/organisations, where they come from, when are they released if possible. Exploration of the IRA data set, can we find patterns, clusters ?
 - November 18 : Draw some inferences from the data. Make some links/connections between the two data set and think on how best we can extract meaningful informations from the combination of both.
