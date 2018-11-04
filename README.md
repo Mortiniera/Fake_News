@@ -1,6 +1,6 @@
 # Title
 
-Fake News : What ? When ? and Why ? Who can tell anymore ?
+Fake News : What ? When ? and Why ? Who can tell ?
 
 # Abstract
 A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
@@ -24,7 +24,7 @@ Are there some subjects that have buzzing way more than others, why ?? If it is 
 # Dataset
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
 
-We used two data sets :  The LIAR and IRA datasets.
+We use two data sets :  The LIAR and IRA datasets.
 
 - LIAR Data set :
 10269 human labeled short statements s from POLITIFACT.COM’s API.
@@ -32,11 +32,22 @@ We used two data sets :  The LIAR and IRA datasets.
 ** other attributes : subject, author of the statement, what the author represent (media, government..), geographic origin (Us state), political party of the author, the credit history vector of the author (counts of pants fire, false, barelytrue...) and the where the statement was emitted. (campaign debate, press release, website...)
 
 -  Data Set : 
-8 CSV sheets of more than 370k rows + 1 sheet od 37k rows(sheets differ by their author). Each row represent Tweets of IRA (Internet Research Agency) trolls about U.S politics. 77% of the tweets are in english while 13% in Russian and other languages represent 11% of the data. We will only consider english tweets here.
-Each tweet is described by its author, the content, the region it comes from, the language used, its publication and harvested date, the number of people following the author and the number of people he is following, the number of update of the current tweet(I think it is the number of retweets, likes.. ?), and the post category, is it an original tweet or a retweet.
+8 CSV sheets of more than 370k rows + 1 sheet of 37k rows(sheets differ by their author). Each row represent Tweets of IRA (Internet Research Agency) trolls about U.S politics. 77% of the tweets are in english while 13% in Russian and other languages represent 11% of the data. We will only consider english tweets here.
+Each tweet is described by its author, the content, the region it comes from, the language used, its publication and harvested date, the number of people following the author and the number of people he is following, the number of update of the current tweet(I think it is the number of retweets, likes.. ?), and the post category, is it an original tweet or a retweet ?
 
 # A list of internal milestones up until project milestone 2
 Add here a sketch of your planning for the next project milestone.
 
+The milestone 2 is due for November 25, until then, here is a tentaive schedule we will try to follow.
+
+- November 11 : Data Exploration : Distribution of fake news among author/group/organisations, where they come from, when are they released if possible. Exploration of the IRA data set, can we find patterns, clusters ?
+- November 18 : Draw some inferences from the data. Make some links/connections between the two data set and think on how best we can extract meaningful informations from the combination of both.
+- November 25 : Complete Analysis description of the two previous steps and plan the next steps for milestone 3 : which direction do we need to continue to follow, which one to remove and think if we will need extra informations/data to complete our story. 
+
+Hand over this milestone.
+
+
 # Questions for TAa
 Add here some questions you have for us, in general or project-specific.
+
+Among the directionnal axes given/proposed, which one are more/less feasible and relevant ?
