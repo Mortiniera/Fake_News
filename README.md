@@ -5,7 +5,7 @@ Fake News : What ? When ? and Why ? Who can tell anymore ?
 # Abstract
 A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
 
-The theme of this year is "Data Science for social goods". We will try to follow this theme by helping people not to believe everything they see by giving certain directional axes. In order to do so, we will first establish some facts drawn from the data showing how much fake news can affect us and how the crowd can be fooled easily. We will also try to show that some news (not necessarily false or true : we will use for example the false-true or barely true labels) are made to create doubt and decredibilize someone or some organization. We will try to give some directions by trying to find recurrent pattern of fake news, their features, their trends and how they are delivered to warn people to always cross check their references to avoid being fooled half of the time. 
+The theme of this year is "Data Science for social goods". We will try to follow this theme by helping people not believing everything they see by giving certain directional axes. In order to do so, we will first establish some facts drawn from the data to show how much fake news can affect us and how the crowd can easily be fooled. We will also try to show that some news (not necessarily false or true : we will use for example the false-true or barely true labels) are made to create doubt and decredibilize some people or organizations. We will try to give some directions by trying to find recurrent patterns of fake news, their features, their trends and how they are delivered in order to warn people to always cross check their references to avoid being fooled half of the time. 
 
 
 
@@ -15,8 +15,8 @@ A list of research questions you would like to address during the project.
 - Repartition of the provenance of these fake news. (LIAR)
 - Repartition in time of the aggregation of fake news in total, and according to their provenance (LIAR)
 - Make the connection between a fake news (LIAR) and the number of tweet (and retweets) by subject (IRA) :
-Are there some subjects that have buzzing way more than others, why ?? If it is possible to know when it happened, try to find a justification of it.
-- Do most of the fake news come from one particular political party ? Are there reason about it ? Is it the opposing party versus the ruling power ? Is it the other way around -> Propaganda ?
+Are there some subjects that have buzzing way more than others, why ?? If it is possible to know when it happened, try to find a justification for it.
+- Do most of the fake news come from one particular political party ? Are there reason for it ? Is it the opposing party versus the ruling power ? Is it the other way around -> Propaganda ?
 - Is it possible to draw some inferences from it ? Is it more likely to have fake news from either region, party ? How to fight them ? what ressources are mostly used for fake news ? Social media? Press release ? ....
 - Can we fight them ? Can we classify some sources as reliable from the dataset , through some credit history ?
 
