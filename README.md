@@ -40,9 +40,9 @@ Add here a sketch of your planning for the next project milestone.
 
 The milestone 2 is due for November 25, until then, here is a tentative schedule we will try to follow.
 
-- November 11 : Data Exploration : Distribution of fake news among author/group/organisations, where they come from, when are they released if possible. Exploration of the IRA data set, can we find patterns, clusters ?
-- November 18 : Draw some inferences from the data. Make some links/connections between the two data set and think on how best we can extract meaningful informations from the combination of both.
-- November 25 : Complete Analysis description of the two previous steps and plan the next steps for milestone 3 : which direction do we need to continue to follow, which one to remove and think if we will need extra informations/data to complete our story. 
+- November 11 : Data Exploration : Distribution of fake news among author/group/organisations, where do they come from, when are they released if possible. Exploration of the IRA data set, can we find patterns, clusters ?
+- November 18 : Draw some inferences from the data. Make some links/connections between the two data sets and think about the best way to extract meaningful information from the combination of both.
+- November 25 : Complete descriptive analysis of the two previous steps and plan the next steps for milestone 3 : which direction do we need to continue to follow, which one to remove and think if we will need extra informations/data to complete our story. 
 
 Hand over this milestone.
 
