@@ -17,8 +17,8 @@ A list of research questions you would like to address during the project.
 - Make the connection between a fake news (LIAR) and the number of tweet (and retweets) by subject (IRA) :
 Are there some subjects that have buzzing way more than others, why ?? If it is possible to know when it happened, try to find a justification for it.
 - Do most of the fake news come from one particular political party ? Are there reason for it ? Is it the opposing party versus the ruling power ? Is it the other way around -> Propaganda ?
-- Is it possible to draw some inferences from it ? Is it more likely to have fake news from either region, party ? How to fight them ? what ressources are mostly used for fake news ? Social media? Press release ? ....
-- Can we fight them ? Can we classify some sources as reliable from the dataset , through some credit history ?
+- Is it possible to draw some inferences from it ? Is it more likely to have fake news from either region, party ? How to identify them ? what ressources are mostly used for fake news ? Social media? Press release ? ....
+- Can we identify them ? Can we classify some sources as reliable from the dataset , through some credit history ?
 
 
 # Dataset
