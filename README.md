@@ -51,3 +51,6 @@ Hand over this milestone.
 Add here some questions you have for us, in general or project-specific.
 
 Among the directionnal axes given/proposed, which one are more/less feasible and relevant ?
+
+
+### Milestone 2
