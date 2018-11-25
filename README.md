@@ -56,3 +56,11 @@ Among the directionnal axes given/proposed, which one are more/less feasible and
 
 
 # Milestone 2
+
+
+
+The vision we have for our datastory is a guide for the average citizen to make him more critical about information. Indeed with the exponential spread of data accessible to everyone, the challenge of getting rightly informed is getting harder and harder. 
+Our aim is to make the distinction between the 'safe' and 'unreliable' topics and sources of information.
+
+In order do this we decided to focus only on the LIAR dataset. The feedback of Milestone 1 suggested the use of advanced natural language processing techniques which will recquire our full commitment.
+
