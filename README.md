@@ -69,11 +69,11 @@ We ran a first descriptive analysis of our data, and already discovered some ins
 The next steps include feature engineering.
 Here are the directions we wish to investigate: 
 
-  -Tagging of the different grammatical value of the words (Pronouns, nouns, verbs, ...)
-  -Comparing the term frequencies of the english language and the english of our list of statements
-  -TF-IDF (Term Frequency - Inverse Document Frequency) values as a metric
-  -Detrminig the relevance of our different features (geographical origin, political affiliation, topic)
-  -Creating a credit history feature of the authors using the five given columns (finding an relevant metric from the 5)
+  - Tagging of the different grammatical value of the words (Pronouns, nouns, verbs, ...)
+  - Comparing the term frequencies of the english language and the english of our list of statements
+  - TF-IDF (Term Frequency - Inverse Document Frequency) values as a metric
+  - Detrminig the relevance of our different features (geographical origin, political affiliation, topic)
+  - Creating a credit history feature of the authors using the five given columns (finding an relevant metric from the 5)
   
 We will run the interpretable machine learning techniques, Logit model and Random Forest most likely, in order to determine the relevant features so as to complete the guide.
 We will verify our assumptions using the provided test set.
