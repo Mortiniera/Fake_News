@@ -68,6 +68,7 @@ We ran a first descriptive analysis of our data, and already discovered some ins
 
 The next steps include feature engineering.
 Here are the directions we wish to investigate: 
+
   -Tagging of the different grammatical value of the words (Pronouns, nouns, verbs, ...)
   -Comparing the term frequencies of the english language and the english of our list of statements
   -TF-IDF (Term Frequency - Inverse Document Frequency) values as a metric
