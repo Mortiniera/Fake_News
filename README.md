@@ -85,6 +85,7 @@ We will verify our assumptions using the provided test set.
 This repository contains : 
   - A notebook describing our full investigation with preprocessing tasks, descriptive analysis along with visualizations and results obtained.
    - A 4-page PDF file containing the report of our work
+   - Plotted Visualizations of our random forest model
 
 **Repartition of the work**
   - In Milestone 1, Thevie provided the backbone of descriptive analysis of the code, while  Timothee and Patrik investigated possible  directions of the project. 
