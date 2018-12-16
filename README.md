@@ -87,8 +87,9 @@ This repository contains :
    - A 4-page PDF file containing the report of our work
 
 **Repartition of the work**
-In Milestone 1, Thevie provided the backbone of descriptive analysis of the code, while  Timothee and Patrik investigated possible directions of the project. 
-In Milestone 2, Timothee came up with the data story of the project writing up textual descriptions and interpretations questioning our results, while Thevie did the preprocessing tasks and topics analysis and Patrik did descriptive analysis on contexts (sources) and geographical origin of the news.
-Finally, in Milestone 3, Patrik came up with most of the machine learning code with their results, Thevie and Timothee focused on completing descriptive analysis tasks and writing up the report.
+  - In Milestone 1, Thevie provided the backbone of descriptive analysis of the code, while  Timothee and Patrik investigated possible  directions of the project. 
+  - In Milestone 2, Timothee came up with the data story of the project writing up textual descriptions and interpretations questioning our results, while Thevie did the preprocessing tasks and topics analysis and Patrik did descriptive analysis on contexts (sources) and geographical origin of the news.
+  - Finally, in Milestone 3, Patrik came up with most of the machine learning code with their results, Thevie and Timothee focused on completing descriptive analysis tasks and writing up the report.
 
+**Final Presentation**
 The final presentation shall be done by the three members of the group.
