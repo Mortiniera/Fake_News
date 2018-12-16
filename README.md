@@ -77,3 +77,9 @@ Here are the directions we wish to investigate:
   
 We will run the interpretable machine learning techniques, Logit model and Random Forest most likely, in order to determine the relevant features so as to complete the guide.
 We will verify our assumptions using the provided test set.
+
+# Milestone 3
+
+Timothée: Report, Context analysis
+Thevie: Word processing, Geographical localization
+Patrik: Machine learning, 
